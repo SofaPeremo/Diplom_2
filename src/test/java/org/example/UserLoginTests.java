@@ -118,4 +118,6 @@ public class UserLoginTests {
                     .statusCode(SC_ACCEPTED);
         }
     }
+
 }
+

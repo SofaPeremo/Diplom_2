@@ -68,4 +68,5 @@ public class CreateUserTests {
                     .statusCode(SC_ACCEPTED);
         }
     }
+
 }

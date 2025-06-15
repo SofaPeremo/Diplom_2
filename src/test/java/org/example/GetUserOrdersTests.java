@@ -84,4 +84,6 @@ public class GetUserOrdersTests {
             helper.deleteUser(accessToken, BASE_URL).statusCode(SC_ACCEPTED);
         }
     }
+
 }
+

@@ -102,4 +102,6 @@ public class UserUpdateTests {
                     .statusCode(SC_ACCEPTED);
         }
     }
+
 }
+
